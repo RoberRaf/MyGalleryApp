@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="427.973" height="925.729" viewBox="0 0 427.973 925.729">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="427.973" height="925.729" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Vector" d="M419.276,115.759c-1.709-2.031-7.425-8.427-19.033-12.963-18.8-7.332-26.2.738-57.592-3.692-7.247-1.029-17.187-2.875-26.143-9.693a44.1,44.1,0,0,1-8.6-8.664,50.512,50.512,0,0,1-7.11-17.513c-2.735-14.176,1.272-17.144-1-27.43-2.16-9.785-8.2-17.144-12.661-21.443C273.219.884,254.979.079,250.3,0H49.566A53.32,53.32,0,0,0,15.041,14.084,49.447,49.447,0,0,0,0,43.716V1279.729H427.973V133.944a41.443,41.443,0,0,0-8.7-18.185Z" transform="translate(-786 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Vector-2" data-name="Vector" transform="translate(786 0)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="931.028" height="586.582" transform="translate(-786 931.028) rotate(-90)" fill="rgba(255,255,255,0.4)"/>
+    </g>
+  </g>
+</svg>

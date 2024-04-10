@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261.735" height="260.915" viewBox="0 0 261.735 260.915">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.113" y1="0.117" x2="0.718" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcd62"/>
+      <stop offset="1" stop-color="#fea12f"/>
+    </linearGradient>
+    <filter id="Ellipse_45" x="26.82" y="6.264" width="219.908" height="219.908" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_46" x="79.713" y="78.892" width="182.023" height="182.023" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_47" x="0" y="0" width="182.023" height="182.023" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_33" data-name="Ellipse 33" cx="52.103" cy="52.103" r="52.103" transform="matrix(0.766, 0.642, -0.642, 0.766, 150.544, 4.228)" fill="url(#linear-gradient)"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_45)">
+    <circle id="Ellipse_45-2" data-name="Ellipse 45" cx="54.625" cy="54.625" r="54.625" transform="matrix(0.77, 0.64, -0.64, 0.77, 130.01, 35.26)" fill="rgba(255,255,255,0.5)"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_46)">
+    <circle id="Ellipse_46-2" data-name="Ellipse 46" cx="41.178" cy="41.178" r="41.178" transform="matrix(0.77, 0.64, -0.64, 0.77, 165.62, 107.89)" fill="rgba(255,255,255,0.5)"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_47)">
+    <circle id="Ellipse_47-2" data-name="Ellipse 47" cx="41.178" cy="41.178" r="41.178" transform="matrix(0.77, 0.64, -0.64, 0.77, 85.91, 29)" fill="rgba(255,255,255,0.5)"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="427.86" height="926" viewBox="0 0 427.86 926">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="347" y="227" width="427.86" height="926" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" transform="translate(-347 -227)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <ellipse id="Ellipse_1628" data-name="Ellipse 1628" cx="234.063" cy="296.844" rx="234.063" ry="296.844" transform="translate(150 285.752)" fill="#ea94d7"/>
+    <ellipse id="Ellipse_1629" data-name="Ellipse 1629" cx="269.333" cy="341.574" rx="269.333" ry="341.574" transform="translate(296.657 520.852)" fill="#ffdada"/>
+    <ellipse id="Ellipse_1627" data-name="Ellipse 1627" cx="269.333" cy="341.574" rx="269.333" ry="341.574" transform="translate(426.193 150)" fill="#ddcdff"/>
+    <rect id="Rectangle_34624640" data-name="Rectangle 34624640" width="428" height="414" transform="translate(346.86 739)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

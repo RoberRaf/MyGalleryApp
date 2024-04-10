@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129.637" height="107.723" viewBox="0 0 129.637 107.723">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eb5757"/>
+      <stop offset="1" stop-color="#fdb2b2"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_12" data-name="Rectangle 12" width="90.938" height="84.875" rx="3" transform="matrix(0.956, 0.292, -0.292, 0.956, 24.774, 0)" fill="url(#linear-gradient)"/>
+  <path id="Polygon_1" data-name="Polygon 1" d="M21.822,3.031a6.062,6.062,0,0,1,10.5,0l21,36.375a6.062,6.062,0,0,1-5.25,9.094h-42a6.062,6.062,0,0,1-5.25-9.094Z" transform="matrix(0.292, -0.956, 0.956, 0.292, 67.444, 88.648)" fill="rgba(253,178,178,0.4)"/>
+  <circle id="Ellipse_62" data-name="Ellipse 62" cx="9.094" cy="9.094" r="9.094" transform="matrix(0.956, 0.292, -0.292, 0.956, 32.832, 15.136)" fill="#fff"/>
+</svg>
