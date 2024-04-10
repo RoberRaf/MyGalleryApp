@@ -8,7 +8,10 @@ extension NavigationHelper on BuildContext {
   }
 
   Future<T?> myShowDialog<T>(Widget widget) async {
-    final result = showDialog<T>(context: this, builder: (context) => widget);
+    final result = showDialog<T>(
+        barrierColor: Colors.transparent,
+        context: this,
+        builder: (context) => widget);
     return result;
   }
 
