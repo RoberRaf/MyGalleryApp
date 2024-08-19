@@ -1,16 +1,14 @@
-# hu_task
+# Gallery App (Side project)
 
 A new Flutter project.
 
-## Getting Started
+An app of two pages: login, gallery
 
-This project is a starting point for a Flutter application.
+This app has a nice UI, its main functionalities are to select an image and upload it, delete some of the uploaded images
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/RoberRaf/MyGalleryApp/blob/main/screenshoots/Screenshot_1712779101.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![alt text](https://github.com/RoberRaf/MyGalleryApp/blob/main/screenshoots/Screenshot_1712779186.png?raw=true)
+
